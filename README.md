@@ -2,7 +2,8 @@
 
 Welcome to my Github repo
 
-Hi, I am Sanoop Kuniel (@sanoopkuniel), I’m interested in Reverse Engineering (x86, ARM), 3D Printing, Tinkering with Hardware and Gaming 
+Hi, I am Sanoop Kuniel (@sanoopkuniel), I’m interested in Reverse Engineering (x86, ARM), 3D Printing, Tinkering with Hardware and Gaming.
+
 I’m currently learning VitaSDK for PSVita homebrew development
 
 📫 github at kuniel dot net
